@@ -1,0 +1,275 @@
+/* logo */
+
+position: absolute;
+width: 94px;
+height: 94px;
+left: 60px;
+top: 60px;
+
+
+
+/* Group 25 */
+
+position: absolute;
+width: 303px;
+height: 19px;
+left: 262px;
+top: 89px;
+
+
+
+/* 1st box wirh slide show buttons */
+
+position: absolute;
+width: 1320px;
+height: 449px;
+left: 60px;
+top: 213px;
+
+
+
+/* 2nd box for products */
+
+position: absolute;
+width: 1320px;
+height: 437.02px;
+left: 60px;
+top: 581.1px;
+
+
+
+/* Images */
+
+position: absolute;
+width: 94px;
+height: 62px;
+left: 669px;
+top: 933px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 62px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Images */
+
+position: absolute;
+width: 94px;
+height: 62px;
+left: 213px;
+top: 933px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 62px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Images */
+
+position: absolute;
+width: 94px;
+height: 62px;
+left: 1133px;
+top: 933px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 62px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 23 */
+
+position: absolute;
+width: 455px;
+height: 58px;
+left: 650px;
+top: 60px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 10px;
+
+
+/* search for items */
+
+position: absolute;
+width: 192px;
+height: 29px;
+left: 775px;
+top: 74px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: rgba(0, 0, 0, 0.5);
+
+
+
+/* 3rd box for product description */
+
+position: absolute;
+width: 1320px;
+height: 291px;
+left: 60px;
+top: 1342px;
+
+
+
+/* magnifying-glass-1976105_1280 1 */
+
+position: absolute;
+width: 43px;
+height: 39px;
+left: 666px;
+top: 70px;
+
+background: url(magnifying-glass-1976105_1280);
+
+
+/* icon-6931512_1280 1 */
+
+position: absolute;
+width: 50px;
+height: 55.08px;
+left: 1234px;
+top: 62px;
+
+background: url(icon-6931512_1280);
+
+
+/* Group 32 */
+
+position: absolute;
+width: 1320px;
+height: 388px;
+left: 60px;
+top: 1245px;
+
+
+
+/* Group 33 */
+
+position: absolute;
+width: 1320px;
+height: 403px;
+left: 60px;
+top: 715px;
+
+
+
+/* Line 11 */
+
+position: absolute;
+width: 1320px;
+height: 0px;
+left: 60px;
+top: 683px;
+
+border: 1px solid #000000;
+transform: rotate(-0.09deg);
+
+
+/* Line 12 */
+
+position: absolute;
+width: 1322px;
+height: 0px;
+left: 60px;
+top: 1185px;
+
+border: 1px solid #000000;
+
+
+/* 1170678 3 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 872px;
+top: 1070px;
+
+background: url(1170678.png);
+
+
+/* 1170678 7 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 412px;
+top: 1070px;
+
+background: url(1170678.png);
+
+
+/* 1170678 5 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 1332px;
+top: 1072px;
+
+background: url(1170678.png);
+
+
+/* 1170678 6 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 1151px;
+top: 65px;
+
+background: url(1170678.png);
+
+
+/* man-7449546_1280 1 */
+
+position: absolute;
+width: 58px;
+height: 58px;
+
+background: url(man-7449546_1280);
+/* bazaar-1853361_1280 1 */
+
+position: absolute;
+width: 1320px;
+height: 393px;
+left: 60px;
+top: 213px;
+
+background: url(bazaar-1853361_1280.jpg);
+border-radius: 10px;
